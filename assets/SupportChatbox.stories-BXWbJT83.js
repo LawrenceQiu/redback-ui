@@ -26,10 +26,11 @@ import{j as o}from"./jsx-runtime-DRTy3Uxn.js";import{r as c}from"./index-BBkUAzw
     .chatbox-header img {
         width: 40px;
         height: 40px;
-		margin: 0.8rem;
-		padding: 0.2rem;
+		margin: 0.6rem;
+		padding: 0.4rem;
 		border-radius: 50%;
-		background-color: hsl(0,70%,90%);
+		background-color: ${e=>e.theme.colors.subtle};
+        border: 1px solid ${e=>e.theme.colors.info};
     }
 
     .chatbox-header h3 {
