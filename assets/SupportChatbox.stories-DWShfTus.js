@@ -70,7 +70,7 @@ import{j as o}from"./jsx-runtime-DRTy3Uxn.js";import{r as c}from"./index-BBkUAzw
     .other-message {
         align-self: flex-end;
         background-color: #e3e3e3;
-	color: ${e=>e.theme.colors.dark};;        
+		color: ${e=>e.theme.colors.dark};;        
     }
 
     .message-meta {
