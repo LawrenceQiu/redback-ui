@@ -1,5 +1,5 @@
 import{j as e}from"./jsx-runtime-CKrituN3.js";import{u as h}from"./styled-components.browser.esm-Bk0Pcr2r.js";import"./index-CBqU2yxZ.js";import"./_commonjsHelpers-BosuxZz1.js";const f=h.div`
-    .footer-content {
+ .footer-content {
         display: flex;
         align-items: center;
         padding: 20px;
